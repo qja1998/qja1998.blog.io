@@ -4,7 +4,7 @@ title:  "Python 스터디 시작"
 date:   2021-01-13
 desc: "Study with 'Python Coding Interview'"
 keywords: "python, coding-interview, "
-categories: [Study, Python]
+categories: [STUDY, PYTHON]
 tags: [study, python, coding-interview]
 icon: icon-html
 ---
