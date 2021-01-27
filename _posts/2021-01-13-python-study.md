@@ -2,7 +2,7 @@
 layout: post
 title:  "Python 스터디 시작"
 date:   2021-01-13
-desc: "Study with 'Python Coding Interview'"
+desc: "study with 'Python Coding Interview'"
 keywords: "python, coding-interview, "
 categories: [STUDY, PYTHON]
 tags: [study, python, coding-interview]
