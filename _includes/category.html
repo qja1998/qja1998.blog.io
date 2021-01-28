@@ -11,6 +11,7 @@ $(function(){
       endRange     : 1
   });
 });
+  /*| upcase */
 </script>
 
 <div class="row">
@@ -18,7 +19,7 @@ $(function(){
         <div class="navy-line"></div>
         {% assign category = page.url | remove:'/' | capitalize %}
         {% if category %}
-        {% assign category = category %} /*| upcase */
+        {% assign category = category %} 
         {% endif %}
         <h1>{{ category }}</h1>
     </div>
